@@ -1,7 +1,7 @@
 #Hi !! Everyone
 ## This is my README.md file.
 ### Created by Kshitij Pratap Tomer
-- 👋 Hi, I’m @Kshitij-200
+- 👋 Hi, I’m @Kshitij-200.
 - 👀 I’m interested in Android Development, Artificial Intelligence and Machine Learning.
 - 🌱 I’m currently learning Java, R, Python.
 - 💞️ I’m looking to collaborate on **Hacktoberfest, Gsoc, GSSOC**.
