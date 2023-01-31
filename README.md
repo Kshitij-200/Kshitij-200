@@ -1,5 +1,5 @@
 #Hi !! Everyone
-## This is my README.md file.
+
 ### Created by Kshitij Pratap Tomer
 - 👋 Hi, I’m @Kshitij-200.
 - 👀 I’m interested in Android Development, Artificial Intelligence and Machine Learning.
