@@ -1,4 +1,4 @@
-#Hi !! Everyone.
+#Hi !! Everyone
 ## This is my README.md file.
 ### Created by Kshitij Pratap Tomer
 - 👋 Hi, I’m @Kshitij-200.
