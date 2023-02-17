@@ -1,6 +1,5 @@
 # Hi !! Everyone
 
-### Created by Kshitij Pratap Tomer
 - 👋 Hi, I’m @Kshitij-200.
 - 👀 I’m interested in Android Development, Artificial Intelligence and Machine Learning.
 - 🌱 I’m currently learning Java, R, Python.
