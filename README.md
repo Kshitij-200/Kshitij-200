@@ -1,4 +1,4 @@
-# Hi !! Everyone
+# Hi ! Everyone
 
 - 👋 Hi, I’m @Kshitij-200.
 - 👀 I’m interested in Android Development, Artificial Intelligence and Machine Learning.
