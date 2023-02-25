@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Kshitij-200.
 - 👀 I’m interested in Android Development, Artificial Intelligence and Machine Learning.
 - 🌱 I’m currently learning Java, R, Python.
-- 💞️ I’m looking to collaborate on **Hacktoberfest, Gsoc, GSSOC**
+- 💞️ I’m looking to collaborate on **Hacktoberfest, Gsoc, GSSOC**.
 - 📫 How to reach me ...
     -You can reach me via my LinkedIn and kshitijpratap2004@gmail.com Email Id.
 <!---
